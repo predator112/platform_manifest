@@ -39,7 +39,6 @@
 
   <!-- Vendor -->
   <project path="vendor/aosp" name="vendor_aosp" remote="evo" />
-  <project path="vendor/gapps" name="vendor_gapps" remote="evo-gitlab" clone-depth="1" />
   <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="evo" />
   <project path="vendor/qcom/opensource/audio" name="vendor_qcom_opensource_audio" remote="evo" />
   <project path="vendor/themes" name="vendor_themes" remote="evo" />
